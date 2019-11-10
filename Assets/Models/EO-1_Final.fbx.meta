@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 0c788ae92a7b90c4d965996220bd8e71
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EO-1_vFINAL [Layer10]
+    100004: EO-1_vFINAL [Layer1]
+    100006: EO-1_vFINAL [Layer2]
+    100008: EO-1_vFINAL [Layer3]
+    100010: EO-1_vFINAL [Layer4]
+    100012: EO-1_vFINAL [Layer5]
+    100014: EO-1_vFINAL [Layer6]
+    100016: EO-1_vFINAL [Layer7]
+    100018: EO-1_vFINAL [Layer8]
+    100020: EO-1_vFINAL [Layer9]
+    400000: //RootNode
+    400002: EO-1_vFINAL [Layer10]
+    400004: EO-1_vFINAL [Layer1]
+    400006: EO-1_vFINAL [Layer2]
+    400008: EO-1_vFINAL [Layer3]
+    400010: EO-1_vFINAL [Layer4]
+    400012: EO-1_vFINAL [Layer5]
+    400014: EO-1_vFINAL [Layer6]
+    400016: EO-1_vFINAL [Layer7]
+    400018: EO-1_vFINAL [Layer8]
+    400020: EO-1_vFINAL [Layer9]
+    2100000: SolarPanelAttachBox
+    2100002: SolarPanelMainBracketFlat
+    2100004: SolarPanelMainBracketPin
+    2100006: SolarPanelMainBracket
+    2100008: EO1-SolarPanelRods
+    2100010: NGTDRSS-SolarPanel-hinge
+    2100012: EO1-SolarPanel-bronze
+    2100014: EO1-SolarPanelSides
+    2100016: EO1-SolarPanelEndsgold
+    2100018: EO1-SolarPanel2
+    2100020: EO1-SolarPanel1
+    2100022: EO1-SolarPanel-Stripes
+    2100024: EO1-SolarPanel-Nubs
+    2100026: GPMcore-SolarFaces8
+    2100028: GPMcore-SolarFaces7
+    2100030: GPMcore-SolarFaces6
+    2100032: GPMcore-SolarFaces5
+    2100034: GPMcore-SolarFaces3
+    2100036: GPMcore-SolarFaces2
+    2100038: GPMcore-SolarFaces1
+    2100040: GPMcore-SolarFaces4
+    2100042: EO-1mainTopBottom
+    2100044: EO-1mainSide-X2
+    2100046: EO-1mainSide-Z1
+    2100048: EO-1mainSide-X3
+    2100050: EO-1mainSide-X4
+    2100052: EO-1mainSide-Z2
+    2100054: EO-1mainSide-X1
+    2100056: EO-1TopIistr4Base
+    2100058: EO-1TopIistr2TubeTopRing
+    2100060: EO-1TopIistr2TubeTopPanel
+    2100062: EO-1TopIistr2TubeTop
+    2100064: EO-1mainBottomCenterDisk
+    2100066: EO-1mainBottomMainRails
+    2100068: EO-1mainBottomOuterDisk
+    2100070: EO-1mainBottomdoohicky
+    2100072: EO-1TopIistr7main
+    2100074: EO-1TopIistr4Main-z
+    2100076: EO-1TopIistr4Main-x
+    2100078: EO-1TopIistr4Main-Ytop
+    2100080: EO-1TopIistr4Main
+    2100082: EO-1TopIistr5Box
+    2100084: EO-1TopIistr5Tube
+    2100086: EO-1TopIistr3
+    2100088: EO-1TopIistr2Tube
+    2100090: EO-1TopIistr1Box
+    2100092: panel5GoldBarRods
+    2100094: panel4Horn
+    2100096: EO-1TopIistr1TubesInside
+    2100098: EO-1TopIistr1Tubes
+    2100100: panel5GoldBar
+    2100102: panel4HornMountFaces
+    2100104: panel2gridSpars
+    2100106: panel2gridWires
+    2100108: panel2gridWireHolders
+    2100110: EO-1mainBottomPlasmaCone
+    2100112: EO-1mainBottomPlasmaConeBlu
+    2100114: EO-1mainBottomThrusters
+    2100116: EO-1TopIistr6Sides
+    2100118: EO-1TopIistr6TOP
+    2100120: EO-1TopIistr5BoxTopINST
+    2100122: EO-1TopIistr5DiskInside
+    2100124: EO-1TopIistr3Disk
+    2100126: EO-1TopIistr7Panel
+    2100128: EO-1TopIistr6TOPInsts
+    2100130: EO-1TopIistr5BoxTop
+    2100132: SidePanel1SilverPanel2
+    2100134: SidePanel1SilverPanel1
+    2100136: panel4HornBrkts
+    2100138: panel4HornMountSides
+    2100140: panel5HornEnds
+    2100142: panel5HornCenter
+    2100144: panel3panelBolts
+    2100146: panel3panelDisk2
+    2100148: panel3panelDisk1
+    2300000: EO-1_vFINAL [Layer10]
+    2300002: EO-1_vFINAL [Layer1]
+    2300004: EO-1_vFINAL [Layer2]
+    2300006: EO-1_vFINAL [Layer3]
+    2300008: EO-1_vFINAL [Layer4]
+    2300010: EO-1_vFINAL [Layer5]
+    2300012: EO-1_vFINAL [Layer6]
+    2300014: EO-1_vFINAL [Layer7]
+    2300016: EO-1_vFINAL [Layer8]
+    2300018: EO-1_vFINAL [Layer9]
+    3300000: EO-1_vFINAL [Layer10]
+    3300002: EO-1_vFINAL [Layer1]
+    3300004: EO-1_vFINAL [Layer2]
+    3300006: EO-1_vFINAL [Layer3]
+    3300008: EO-1_vFINAL [Layer4]
+    3300010: EO-1_vFINAL [Layer5]
+    3300012: EO-1_vFINAL [Layer6]
+    3300014: EO-1_vFINAL [Layer7]
+    3300016: EO-1_vFINAL [Layer8]
+    3300018: EO-1_vFINAL [Layer9]
+    4300000: EO-1_vFINAL [Layer1]
+    4300002: EO-1_vFINAL [Layer2]
+    4300004: EO-1_vFINAL [Layer3]
+    4300006: EO-1_vFINAL [Layer4]
+    4300008: EO-1_vFINAL [Layer5]
+    4300010: EO-1_vFINAL [Layer6]
+    4300012: EO-1_vFINAL [Layer7]
+    4300014: EO-1_vFINAL [Layer8]
+    4300016: EO-1_vFINAL [Layer9]
+    4300018: EO-1_vFINAL [Layer10]
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
