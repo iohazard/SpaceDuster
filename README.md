@@ -12,4 +12,3 @@ Red boxes are space junk you want to capture and turn into fuel. Green ones are 
 
 Hitting a satellite or running out of fuel ends the game. Try to clean as much junk as possible and don't miss too much.
 
-You can cheat and give yourself more fuel with F. For now...
